@@ -11,6 +11,7 @@ Are you new to the world of AI tools and feeling overwhelmed by all the options?
 | **Rocode** | AI pair programming assistant | Guided coding assistance | Helps explain code and suggests improvements | Limited compared to full IDE functionality | Free tier with usage limits; paid plans from $10/month |
 | **LM Studio** | GUI for running and managing local LLMs | Testing different models locally | User-friendly interface for running various models | Requires decent hardware for larger models | Free and open source |
 | **Ollama** | Command-line tool for running LLMs locally | Running open-source models on personal devices | Simple setup, lightweight, supports many models | Command-line interface might intimidate beginners | Free and open source |
+| **Open WebUI** | Web interface for Ollama and other LLMs | Managing local and API-based models | Clean web interface for various models | Setup requires some technical knowledge | Free and open source |
 | **Cline** | Command-line interface for AI interactions | Quick AI assistance during terminal work | Fast, integrates into development workflow | Terminal-based, steeper learning curve | Free; may require API keys with usage costs |
 
 ## Free AI Tools 
