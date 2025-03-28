@@ -11,7 +11,6 @@ Are you new to the world of AI tools and feeling overwhelmed by all the options?
 | **Rocode** | AI pair programming assistant | Guided coding assistance | Helps explain code and suggests improvements | Limited compared to full IDE functionality | Free tier with usage limits; paid plans from $10/month |
 | **LM Studio** | GUI for running and managing local LLMs | Testing different models locally | User-friendly interface for running various models | Requires decent hardware for larger models | Free and open source |
 | **Ollama** | Command-line tool for running LLMs locally | Running open-source models on personal devices | Simple setup, lightweight, supports many models | Command-line interface might intimidate beginners | Free and open source |
-| **Open WebUI** | Web interface for Ollama and other LLMs | Managing local and API-based models | Clean web interface for various models | Setup requires some technical knowledge | Free and open source |
 | **Cline** | Command-line interface for AI interactions | Quick AI assistance during terminal work | Fast, integrates into development workflow | Terminal-based, steeper learning curve | Free; may require API keys with usage costs |
 
 ## Free AI Tools 
@@ -27,7 +26,6 @@ Are you new to the world of AI tools and feeling overwhelmed by all the options?
 
 | Tool | Description | Best Use Case | Pros | Cons | Cost |
 |------|-------------|--------------|------|------|------|
-| **Cursor** | Code editor with AI integration | Software development with AI assistance | Integrates AI directly into coding workflow | Primarily focused on coding use cases | Free tier available; Pro plan $20/month + API costs |
 | **Open WebUI** | Web interface for various AI models | Self-hosted AI interface with multiple model support | Customizable, supports both local and API models | Requires setup and configuration | Free and open source + API costs |
 | **TypingMind** | Polished ChatGPT/Claude interface | Professional AI chat with privacy focus | Clean UI, conversation management | Paid after trial period | $9/month + API costs |
 | **Coolify** | Self-hosted platform for various apps including AI | Setting up a personal AI infrastructure | All-in-one solution for multiple services | More complex to set up and maintain | Free self-hosted; Cloud version from $5/month + API costs |
